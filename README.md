@@ -3,12 +3,14 @@ Current Personal Website
 
 Creator:
     edcod3 (me)
+    
 Built with:
     HTML 
     CSS
     JS
 
- *Enjoy!
+# Enjoy!
+
 
 
 Credits:
