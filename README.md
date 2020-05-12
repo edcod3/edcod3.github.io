@@ -8,7 +8,7 @@ Built with:
     CSS
     JS
 
-*Enjoy!
+ *Enjoy!
 
 
 Credits:
